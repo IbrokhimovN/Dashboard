@@ -1,0 +1,22 @@
+/* src/components/Navbar.css */
+.navbar {
+    background-color: #004d40;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    text-align: center;
+    height: 100%;
+  }
+  
+  .navbar-title {
+    font-size: 1rem;
+    text-align: center;
+    margin-left: 20px;
+  }
+  
+  .edit {
+    font-size: 1rem;
+  }
+  
